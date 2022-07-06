@@ -1,0 +1,164 @@
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+}
+.top-sec {
+  background-image: url(images/donation8.jpg);
+  background-repeat: no-repeat;
+  height: 100%;
+  padding: 200px 100px;
+  background-size: cover;
+  margin-bottom: 100px;
+}
+h1 {
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+.top-text {
+  text-align: center;
+  color: white;
+}
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(orange, tomato);
+  background-color: orange;
+  padding: 10px 40px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+  margin-left: 43%;
+}
+h2 {
+  text-align: center;
+  font-size: 40px;
+  font-weight: 500;
+}
+div p {
+  text-align: center;
+  color: gray;
+}
+.amount {
+  display: flex;
+  gap: 15px;
+}
+.box {
+  padding: 10px;
+  background: aliceblue;
+  border-radius: 5px;
+  width: 5%;
+  color: black;
+  margin-left: 15%;
+}
+.box-j {
+  padding: 10px;
+  background: aliceblue;
+  border-radius: 5px;
+  width: 5%;
+  color: black;
+  border: 2px solid red;
+  margin-left: 15%;
+}
+#other-amount {
+  border: none;
+  border-bottom: 1px solid gray;
+  width: 50%;
+  color: gray;
+  padding: 15px;
+  text-align: center;
+  margin-left: 23%;
+}
+.text {
+  margin-top: -30px;
+}
+.mid-sec {
+  margin-bottom: 100px;
+}
+.text-2 {
+  text-align: center;
+}
+h3 {
+  font-size: 30px;
+}
+.plan-sec {
+  display: flex;
+  margin-bottom: 100px;
+}
+#box-1 {
+  width: 50%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 50px;
+  box-shadow: 5px 5px 10px gray;
+  background-color: aliceblue;
+}
+#box-2 {
+  width: 50%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 50px;
+  box-shadow: 5px 5px 10px gray;
+  background-color: aquamarine;
+}
+#box-3 {
+  width: 50%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 50px;
+  box-shadow: 5px 5px 10px gray;
+  background-color: bisque;
+}
+.last-sec {
+  display: flex;
+  margin-bottom: 50px;
+}
+.half-width {
+  width: 50%;
+  padding-left: 2%;
+}
+.half-width img {
+  width: 50%;
+}
+.p3 {
+  text-align: left;
+}
+.link-button-2 {
+  text-decoration: none;
+  background-image: linear-gradient(orange, tomato);
+  background-color: orange;
+  padding: 10px 40px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+}
+.p4 {
+  text-align: right;
+}
+#subscribe-section {
+  padding: 30px;
+  margin: 30px auto;
+  width: 30%;
+  background-color: rgba(red, green, blue, alpha);
+}
+.email {
+  padding: 15px;
+  border: none;
+  color: gray;
+  width: 40%;
+  background-color: rgba(red, green, blue, alpha);
+}
+footer {
+  background-color: black;
+  padding: 1px 0;
+  color: aliceblue;
+  text-align: center;
+}
+footer h2 {
+  color: orange;
+}
